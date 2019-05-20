@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
+"Silly caption"
 Use the left arrow to go back!
